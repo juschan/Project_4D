@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Project_4D
+Project 4D
+>>>>>>> 9a8f4c34606d4dff141e4412a51ae42efbdff258
